@@ -1,0 +1,9 @@
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\obj\Debug\EduPlus.Data.csproj.AssemblyReference.cache
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\obj\Debug\EduPlus.Data.csproj.CoreCompileInputs.cache
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\bin\Debug\EduPlus.Data.dll
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\bin\Debug\EduPlus.Data.pdb
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\bin\Debug\EduPlus.Models.dll
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\bin\Debug\EduPlus.Models.pdb
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\obj\Debug\EduPlus..D4099E4F.Up2Date
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\obj\Debug\EduPlus.Data.dll
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Data\obj\Debug\EduPlus.Data.pdb

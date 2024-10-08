@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduPlus.WebUI", "EduPlus.WebUI\EduPlus.WebUI.csproj", "{74432C60-DB3B-4365-8C32-60C5D1B6F55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduPlus.Models", "EduPlus.Models\EduPlus.Models.csproj", "{EBE1222A-FF6E-4AF2-8EBD-EABB05EA36D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduPlus.Data", "EduPlus.Data\EduPlus.Data.csproj", "{252BD708-6742-4E4A-9A8B-53FEBBFA4C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74432C60-DB3B-4365-8C32-60C5D1B6F55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74432C60-DB3B-4365-8C32-60C5D1B6F55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74432C60-DB3B-4365-8C32-60C5D1B6F55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74432C60-DB3B-4365-8C32-60C5D1B6F55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE1222A-FF6E-4AF2-8EBD-EABB05EA36D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE1222A-FF6E-4AF2-8EBD-EABB05EA36D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE1222A-FF6E-4AF2-8EBD-EABB05EA36D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE1222A-FF6E-4AF2-8EBD-EABB05EA36D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252BD708-6742-4E4A-9A8B-53FEBBFA4C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252BD708-6742-4E4A-9A8B-53FEBBFA4C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252BD708-6742-4E4A-9A8B-53FEBBFA4C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252BD708-6742-4E4A-9A8B-53FEBBFA4C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B05466B-820B-41F0-BA7E-D373E89BBD93}
+	EndGlobalSection
+EndGlobal
