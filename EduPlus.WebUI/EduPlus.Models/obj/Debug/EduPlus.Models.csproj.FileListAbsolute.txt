@@ -1,0 +1,6 @@
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Models\bin\Debug\EduPlus.Models.dll
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Models\bin\Debug\EduPlus.Models.pdb
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Models\obj\Debug\EduPlus.Models.csproj.AssemblyReference.cache
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Models\obj\Debug\EduPlus.Models.csproj.CoreCompileInputs.cache
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Models\obj\Debug\EduPlus.Models.dll
+C:\Develpoment_Glauber_Sir\EduPlus\EduPlus.Models\obj\Debug\EduPlus.Models.pdb
